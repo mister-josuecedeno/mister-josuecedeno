@@ -1,4 +1,4 @@
-## Hi there, I'm [Josue] (href="https://github.com/mister-josuecedeno/")! 👋
+## Hi there, I'm [Josue!](https://github.com/mister-josuecedeno) 👋
 
 Hi, I'm Josue Cedeno, a front-end web developer actively seeking opportunties in React JS and React Native.
 
