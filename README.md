@@ -1,6 +1,6 @@
 ## Hi there, I'm [Josue!](https://github.com/mister-josuecedeno) 👋
 
-Hi, I'm Josue Cedeno, a front-end web developer actively seeking opportunties in React JS and React Native.
+I'm a front-end web developer actively seeking opportunties in React JS and React Native.
 
 - 🌱 I’m currently learning ... Node JS, MongoDB, Express
 
@@ -10,7 +10,7 @@ Javascript, React JS, React Native
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mister-josuecedeno&theme=highcontrast&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-josuecedeno&layout=compact&theme=highcontrast" >
+<img src="https://github-readme-stats.vercel.app/api?username=mister-josuecedeno&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-josuecedeno&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 
 <!--
 **mister-josuecedeno/mister-josuecedeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
