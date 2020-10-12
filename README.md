@@ -6,7 +6,8 @@
 
 I'm a front-end web developer actively seeking opportunties in React JS and React Native based in Fort Worth, Texas.
 
-- 🌱 I’m currently learning ... 
+🌱 I’m currently learning ... 
+<br>
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
