@@ -1,5 +1,9 @@
 ## Hi there, I'm [Josue!](https://github.com/mister-josuecedeno) 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-josuecedeno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josuecedeno/)](https://www.linkedin.com/in/josuecedeno/)
+[![Gmail Badge](https://img.shields.io/badge/-josuecedeno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josuecedeno@gmail.com)](mailto:josuecedeno@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/mister-josuecedeno?label=follow&style=social)](https://github.com/mister-josuecedeno)
+
+
 I'm a front-end web developer actively seeking opportunties in React JS and React Native based in Fort Worth, Texas.
 
 - 🌱 I’m currently learning ... 
