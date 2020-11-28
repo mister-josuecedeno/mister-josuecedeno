@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-josuecedeno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josuecedeno@gmail.com)](mailto:josuecedeno@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/mister-josuecedeno?label=follow&style=social)](https://github.com/mister-josuecedeno)
 
 
-I'm a front-end web developer actively seeking opportunties in React JS and React Native based in Fort Worth, Texas.
+I am a fullstack developer based in Fort Worth, Texas actively seeking opportunties in the MERN stack (MongoDB, Express, React JS, React Native, and Node JS).
 
 🌱 I’m currently learning ... 
 <br>
