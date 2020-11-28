@@ -8,14 +8,17 @@ I'm a front-end web developer actively seeking opportunties in React JS and Reac
 
 🌱 I’m currently learning ... 
 <br>
-  ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+
 
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+<br>
+  ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
