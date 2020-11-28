@@ -9,6 +9,7 @@ I'm a front-end web developer actively seeking opportunties in React JS and Reac
 🌱 I’m currently learning ... 
 <br>
   ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+  ![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql)
 
 
 ## Languages and Tools:
