@@ -9,14 +9,9 @@ I am a Web Developer seeking remote and local opportunities. Contract or full ti
 🌱 I’m currently learning ... 
   
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-<br>
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-  
-<br>
-  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-  ![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat-square&logo=graphql)
 
 
 ## Languages and Tools:
