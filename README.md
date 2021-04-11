@@ -17,6 +17,9 @@ I am a software engineer seeking remote and local opportunities. Contract or ful
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+  ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+  
+  
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
