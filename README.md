@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-josuecedeno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josuecedeno@gmail.com)](mailto:josuecedeno@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/mister-josuecedeno?label=follow&style=social)](https://github.com/mister-josuecedeno)
 
 
-I am a software engineer seeking remote and local opportunities. Contract or full time. Experience with the MERN stack (MongoDB, Express, React JS, React Native, and Node JS).
+I am a software engineer available for remote and local opportunities. Contract or full time. Experience with the MERN stack (MongoDB, Express, React JS, React Native, and Node JS).
 
 🌱 I’m currently learning ... 
   
