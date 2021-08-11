@@ -4,14 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-josuecedeno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josuecedeno@gmail.com)](mailto:josuecedeno@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/mister-josuecedeno?label=follow&style=social)](https://github.com/mister-josuecedeno)
 
 
-I am a software engineer available for remote and local opportunities. Contract or full time. Experience with the MERN stack (MongoDB, Express, React JS, React Native, and Node JS).
+Full-Stack Software Engineer. I create professional websites and web apps that are secure, elegant and user friendly.
+
+Self-motivated problem solver looking to drive technical projects from design, implementation, deployment, and monitoring. In addition to coding, I have 20+ years of analytics, training, and management experience.
 
 🌱 I’m currently learning ... 
-  
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-  ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+  Unit Testing, Documentation
 
 
 ## Languages and Tools:
