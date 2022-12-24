@@ -14,8 +14,9 @@ Self-motivated problem solver looking to drive technical projects from design, i
 
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
   ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
+  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
